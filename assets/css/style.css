@@ -56,7 +56,7 @@ p {
 /* HEADER SECTION */
 
 #header{
-  background-image: url(/assets/img/header.jpg);
+  background-image: url(../img/header.jpg);
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
