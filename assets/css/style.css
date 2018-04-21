@@ -56,12 +56,8 @@ p {
 /* HEADER SECTION */
 
 #header{
-  background-image: url(/assets/img/header.jpg);
-  background-repeat: no-repeat;
-  background-position: center;
-  background-size: cover;
+  background-image: url("../img/header.jpg");
   text-align: center;
-  color: black;
   height: 100%;
 }
 
